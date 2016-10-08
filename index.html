@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+        <title>Ortopedistas al día</title>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+        <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    </head>
+    <body>
+        <nav class="light-blue lighten-1" role="navigation">
+            <div class="nav-wrapper container">
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="#"><img src="img/lg-campbell.jpg" alt="" class="img-responsive logo"></a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="content">
+        <div class="row">
+            <div class="col s12 m12 s12 img2">
+                <img src="img/lg-ortopedistas.png" alt="" class="img-responsive ortoimg">
+            </div>
+        </div>
+            <div class="row borde top">
+                <div class="col m12"></div>
+                <h1 class="texto">Registro de participantes </h1>
+            </div>
+        </div>
+        <div class="section">
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input  id="nombre" type="text" class="validate">
+                        <label for="nombre">Nombres</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input  id="apellido" type="text" class="validate">
+                        <label for="apellido">Apellidos</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="cedula" type="text" onkeyup="return ValNumero(this)" class="validate">
+                        <label for="cedula">No. Cedula</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input placeholder="Fecha de nacimiento" id="fechaNacimiento" type="date" class="datepicker">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="especialidad" type="text" class="validate">
+                        <label for="especialidad">Especialidad</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="lugarTrabajo" type="text" class="validate">
+                        <label for="lugarTrabajo">Institución donde labora</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="direccion" type="text" class="validate">
+                        <label for="direccion">Dirección</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="col s12">
+                        <div class="input-field col s6">
+                            <select id="departamento" onchange="cargarCiudad(this.value)" class="browser-default">
+                            </select>
+                        </div>
+                        <div class="input-field col s6">
+                            <select id="ciudad" class="browser-default">
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="correo" type="email" class="validate">
+                        <label for="correo">Correo electrónico</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="celular" type="text" onkeyup="return ValNumero(this)" class="validate">
+                        <label for="celular">Celular</label>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col m12 s12 l12 ">
+                        <button id="registrar" class="btn waves-effect waves-light boton" type="submit" name="action">Registrar
+                            <i class="material-icons right">send</i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="row ">
+                <div class="col m12 columf">
+                    <a href="https://www.facebook.com/Ortopedistas-Al-D%C3%ADa-302463210116015/" target="_blank"><img src="img/btfacebook.jpg" alt="" class="footer1"></a>
+                    <a href="https://twitter.com/ortopealdia" target="_blank"><img src="img/btttwitter.jpg" alt=""></a>
+                    <img src="img/btWhatsapp.jpg" title="+57 316 7449767" alt="+57 316 7449767">
+                    <a href="#" target="_blank"><img src="img/btyoutube.jpg" alt=""></a>
+                </div>
+            </div>
+        </footer>
+        <div class="row-footer">
+            <div class="col m12">
+                <img src="img/linkcampbell.jpg" alt="" class="imagenf">
+            </div>
+        </div>
+        <div class="row-footer">
+            <div class="col m12">
+                <img src="img/linkortopedistas.jpg" alt="" class="imagenf">
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="js/materialize.js"></script>
+        <script src="js/init.js"></script>
+        <script src="js/index.js"></script>
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <h4>Mensaje</h4>
+                <p id="mensaje"></p>
+            </div>
+            <div class="modal-footer">
+                <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Cerrar</a>
+            </div>
+        </div>
+    </body>
+</html>

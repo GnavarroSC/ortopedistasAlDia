@@ -1,0 +1,16 @@
+<option value='Florencia'>Florencia</option>
+<option value='Albania'>Albania</option>
+<option value='Belen De Los Andaquies'>Belen De Los Andaquies</option>
+<option value='Cartagena Del Chaira'>Cartagena Del Chaira</option>
+<option value='Curillo'>Curillo</option>
+<option value='El Doncello'>El Doncello</option>
+<option value='El Paujil'>El Paujil</option>
+<option value='La Montañita'>La Montañita</option>
+<option value='Milan'>Milan</option>
+<option value='Morelia'>Morelia</option>
+<option value='Puerto Rico'>Puerto Rico</option>
+<option value='San Jose Del Fragua'>San Jose Del Fragua</option>
+<option value='San Vicente Del Caguan'>San Vicente Del Caguan</option>
+<option value='Solano'>Solano</option>
+<option value='Solita'>Solita</option>
+<option value='Valparaiso'>Valparaiso</option>

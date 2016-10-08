@@ -1,0 +1,7 @@
+<option value='Arauca'>Arauca</option>
+<option value='Arauquita'>Arauquita</option>
+<option value='Cravo Norte'>Cravo Norte</option>
+<option value='Fortul'>Fortul</option>
+<option value='Puerto Rondon'>Puerto Rondon</option>
+<option value='Saravena'>Saravena</option>
+<option value='Tame'>Tame</option>

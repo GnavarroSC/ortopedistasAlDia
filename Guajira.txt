@@ -1,0 +1,15 @@
+<option value='Riohacha'>Riohacha</option>
+<option value='Albania'>Albania</option>
+<option value='Barrancas'>Barrancas</option>
+<option value='Dibulla'>Dibulla</option>
+<option value='Distraccion'>Distraccion</option>
+<option value='El Molino'>El Molino</option>
+<option value='Fonseca'>Fonseca</option>
+<option value='Hatonuevo'>Hatonuevo</option>
+<option value='La Jagua Del Pilar'>La Jagua Del Pilar</option>
+<option value='Maicao'>Maicao</option>
+<option value='Manaure'>Manaure</option>
+<option value='San Juan Del Cesar'>San Juan Del Cesar</option>
+<option value='Uribia'>Uribia</option>
+<option value='Urumita'>Urumita</option>
+<option value='Villanueva'>Villanueva</option>

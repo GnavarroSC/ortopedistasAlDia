@@ -1,0 +1,6 @@
+<option value='Mitu'>Mitu</option>
+<option value='Caruru'>Caruru</option>
+<option value='Pacoa'>Pacoa</option>
+<option value='Taraira'>Taraira</option>
+<option value='Papunaua'>Papunaua</option>
+<option value='Yavarate'>Yavarate</option>

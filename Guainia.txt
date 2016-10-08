@@ -1,0 +1,9 @@
+<option value='Inirida'>Inirida</option>
+<option value='Barranco Minas'>Barranco Minas</option>
+<option value='Mapiripana'>Mapiripana</option>
+<option value='San Felipe'>San Felipe</option>
+<option value='Puerto Colombia'>Puerto Colombia</option>
+<option value='La Guadalupe'>La Guadalupe</option>
+<option value='Cacahual'>Cacahual</option>
+<option value='Pana Pana'>Pana Pana</option>
+<option value='Morichal'>Morichal</option>

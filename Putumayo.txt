@@ -1,0 +1,13 @@
+<option value='Mocoa'>Mocoa</option>
+<option value='Colon'>Colon</option>
+<option value='Orito'>Orito</option>
+<option value='Puerto Asis'>Puerto Asis</option>
+<option value='Puerto Caicedo'>Puerto Caicedo</option>
+<option value='Puerto Guzman'>Puerto Guzman</option>
+<option value='Leguizamo'>Leguizamo</option>
+<option value='Sibundoy'>Sibundoy</option>
+<option value='San Francisco'>San Francisco</option>
+<option value='San Miguel'>San Miguel</option>
+<option value='Santiago'>Santiago</option>
+<option value='Valle Del Guamuez'>Valle Del Guamuez</option>
+<option value='Villagarzon'>Villagarzon</option>

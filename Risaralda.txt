@@ -1,0 +1,14 @@
+<option value='Pereira'>Pereira</option>
+<option value='Apia'>Apia</option>
+<option value='Balboa'>Balboa</option>
+<option value='Belen De Umbria'>Belen De Umbria</option>
+<option value='Dosquebradas'>Dosquebradas</option>
+<option value='Guatica'>Guatica</option>
+<option value='La Celia'>La Celia</option>
+<option value='La Virginia'>La Virginia</option>
+<option value='Marsella'>Marsella</option>
+<option value='Mistrato'>Mistrato</option>
+<option value='Pueblo Rico'>Pueblo Rico</option>
+<option value='Quinchia'>Quinchia</option>
+<option value='Santa Rosa De Cabal'>Santa Rosa De Cabal</option>
+<option value='Santuario'>Santuario</option>

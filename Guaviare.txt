@@ -1,0 +1,4 @@
+<option value='San Jose Del Guaviare'>San Jose Del Guaviare</option>
+<option value='Calamar'>Calamar</option>
+<option value='El Retorno'>El Retorno</option>
+<option value='Miraflores'>Miraflores</option>

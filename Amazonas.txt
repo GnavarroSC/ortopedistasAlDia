@@ -1,0 +1,11 @@
+<option value='Leticia'>Leticia</option>
+<option value='El Encanto'>El Encanto</option>
+<option value='La Chorrera'>La Chorrera</option>
+<option value='La Pedrera'>La Pedrera</option>
+<option value='La Victoria'>La Victoria</option>
+<option value='Miriti - Parana'>Miriti - Parana</option>
+<option value='Puerto Alegria'>Puerto Alegria</option>
+<option value='Puerto Arica'>Puerto Arica</option>
+<option value='Puerto Nariño'>Puerto Nariño</option>
+<option value='Puerto Santander'>Puerto Santander</option>
+<option value='Tarapaca'>Tarapaca</option>

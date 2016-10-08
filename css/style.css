@@ -1,0 +1,146 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.row{
+    width: 71%;
+}
+
+.top{
+    margin-top:-4%;
+}
+
+.light-blue.lighten-1 {
+    background-color: #2bb673 !important;
+}
+
+.logo {
+    height: 164px;
+}
+.img2 {
+    border: 0;
+    margin-top: -14%;
+}
+
+.boton{
+    margin-left: 65%;
+}
+
+.borde{
+    border-bottom: 12px solid #959595;
+}
+
+.content{
+    width: 70%;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
+select {
+  font-family: inherit;
+  background-color: transparent;
+  width: 100%;
+  font-size: 16px;
+  color: rgba(0,0,0, 0.26);
+  border: none;
+  border-bottom: 1px solid rgba(0,0,0, 0.12);
+  color: #000;
+}
+
+select:focus {
+  outline: none;
+}
+
+.mdl-selectfield label {
+  display: none;
+}
+
+.mdl-selectfield select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.mdl-selectfield {
+  font-family: 'Roboto','Helvetica','Arial',sans-serif;
+  position: relative;
+}
+
+.row-footer{
+    background-color: #2bb673;
+}
+.columf{
+    margin-top: 4%;
+}
+.footer1{
+    margin-left: 35%;
+}
+.imagenf{
+    margin-left: 36%;
+}
+.ortoimg{
+
+}
+.texto{
+    color: #3d3d3d;
+    font-size: 245%;
+}
+
+@media screen  and (min-width: 320px) and (max-width: 360px ){
+
+    .ortoimg{
+        width: 111%;
+        margin-top: 13%;
+    }
+    .imagenf{
+        width: 66%;
+        margin-left: 19%;
+    }
+}
+
+@media screen  and (min-width: 360px) and (max-width: 768px ){
+
+    .ortoimg{
+        width: 111%;
+        margin-top: 13%;
+    }
+
+    .imagenf{
+        width: 66%;
+        margin-left: 19%;
+    }
+
+}
+
+@media screen  and (min-width: 768px) and  (max-width: 991px){
+
+    .ortoimg{
+        width: 111%;
+        margin-top: 13%;
+    }
+    .imagenf{
+        width: 66%;
+        margin-left: 19%;
+    }
+
+}
+
+@media screen  and (min-width: 980px) and  (max-width: 1280px){
+
+    .imagenf{
+        width: 66%;
+        margin-left: 19%;
+    }
+
+}

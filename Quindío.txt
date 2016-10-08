@@ -1,0 +1,12 @@
+<option value='Armenia'>Armenia</option>
+<option value='Buenavista'>Buenavista</option>
+<option value='Calarca'>Calarca</option>
+<option value='Circasia'>Circasia</option>
+<option value='Cordoba'>Cordoba</option>
+<option value='Filandia'>Filandia</option>
+<option value='Genova'>Genova</option>
+<option value='La Tebaida'>La Tebaida</option>
+<option value='Montenegro'>Montenegro</option>
+<option value='Pijao'>Pijao</option>
+<option value='Quimbaya'>Quimbaya</option>
+<option value='Salento'>Salento</option>

@@ -1,0 +1,4 @@
+<option value='Puerto Carreño'>Puerto Carreño</option>
+<option value='La Primavera'>La Primavera</option>
+<option value='Santa Rosalia'>Santa Rosalia</option>
+<option value='Cumaribo'>Cumaribo</option>
